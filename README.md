@@ -1,4 +1,7 @@
 # jQuery outside events #
+
+---
+
 [http://benalman.com/projects/jquery-outside-events-plugin/](http://benalman.com/projects/jquery-outside-events-plugin/)
 
 Version: 1.1, Last updated: 3/16/2010
